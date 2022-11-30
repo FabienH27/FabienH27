@@ -3,7 +3,7 @@
 
 - 💻 I'm currently looking for a 4 month internship in software engineering from May 2023 ! Feel free to reach me if interested.
 
-- 🔭 I’m currently working on [a quiz app made with Django & Javascript](https://quizbiblio.herokuapp.com/)
+- 🔭 During my free time, I work on [a quiz app made with Django & Javascript](https://quizbiblio.herokuapp.com/)
 
 - 🌱 I’m currently learning **Angular and .NET**
 
