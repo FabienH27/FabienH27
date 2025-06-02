@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fabien</h1>
+<h1 align="center">Hi 👋, I'm Fabien H</h1>
 <h3 align="center">A passionate engineer from France</h3>
 
 - 💻 Fullstack engineer
 
-- 🔭 During my free time, I am moving a project from Django to .NET & Angular stack 
+- 🔭 During my free time, I am working on a quiz app made with .NET & Angular. I am also following an online course on Java SpringBoot.
 
-- 🌱 I’m currently learning **Angular and .NET**
+- 🌱 I’m currently learning **Java SpringBoot** and practicing my skills on .NET & Angular
 
 - 💬 Ask me about **.NET, Angular, Front-end,etc...**
 
